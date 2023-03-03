@@ -3,6 +3,7 @@
 My name is Sabir and I'm Computer Engineering student at Uludağ University 🔭
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript and Python for Web Development.
+- ⚡ I’m interested in Web Development, Artificial Intellingence(Aİ), Cyber Security and Blockchain. 
 -  You can reach me on 👇
 - 🔗 LinkedIn: https://www.linkedin.com/in/sabirs/
 - 📩 Gmail:    suleymanlisabir3@gmail.com
