@@ -7,7 +7,7 @@ My name is Sabir and I'm Computer Engineering student at Uludağ University 🔭
 -  You can reach me on 👇
 - 🔗 LinkedIn: https://www.linkedin.com/in/sabirs/
 - 📩 Gmail:    suleymanlisabir3@gmail.com
-
+- Google DSC Uludağ University: https://gdsc.community.dev/u/mv469p/
 <!--
 **sabir-suleyman/sabir-suleyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
